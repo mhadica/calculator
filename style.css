@@ -3,6 +3,8 @@
     height: 500px;
     background: gray;
     margin-left: 50px;
+    position: absolute;
+    transform: translate(400px,0);
 }
 #screen{
     width: 80%;
